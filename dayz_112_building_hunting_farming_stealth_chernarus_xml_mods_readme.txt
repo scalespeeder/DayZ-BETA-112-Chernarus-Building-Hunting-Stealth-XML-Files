@@ -1,4 +1,4 @@
-RELEASE CANDIDATE 1.12 Building, Hunting, Farming & Stealth  xml Mod Changelog & Terms Of Use
+BETA 1.12 Building, Hunting, Farming & Stealth  xml Mod Changelog & Terms Of Use
 
 To install these files simply upload them to your server in the same folders as the originals, so those originals are over-written, then do a server restart. Depending on the population of your server, the time it takes for the new items to spawn in will vary.
 
